@@ -3,6 +3,12 @@ layout: default
 title: Caveman Escapades
 ---
 <div class="blurb">
-    <h1>Caveman Escapades</h1>
-    <p>This is a blog. Mostly about food.</p>
+  <h1>Caveman Escapades</h1>
+  <p>This is a blog. Mostly about food.</p>
+  <ul class="posts">
+
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> -- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 </div><!-- /.blurb -->
