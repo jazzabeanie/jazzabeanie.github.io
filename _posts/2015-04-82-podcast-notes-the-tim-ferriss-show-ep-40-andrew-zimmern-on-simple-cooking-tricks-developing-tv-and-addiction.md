@@ -3,8 +3,6 @@ layout: post
 title: "Podcast notes — The Tim Ferriss Show Ep 40: Andrew Zimmern on Simple Cooking Tricks, Developing TV, and Addiction"
 date: 2015-04-28
 ---
-# Podcast notes — The Tim Ferriss Show Ep 40: Andrew Zimmern on Simple Cooking Tricks, Developing TV, and Addiction
-
 [http://fourhourworkweek.com/2014/10/28/andrew-zimmern-on-simple-cooking-tricks-developing-tv-and-addiction/](http://fourhourworkweek.com/2014/10/28/andrew-zimmern-on-simple-cooking-tricks-developing-tv-and-addiction/)
 
 As a foodie and a fan of the Tim Ferriss Show, I was very excited when he interviewed accomplished chef Andrew Zimmern. I listened to this podcast in the car and when I got home I went to the show notes to follow up on a few things. I found the show notes to be more like an advertisement for the podcast episode and I had to re-listen to find out who makes that famous roast chicken that they talked about. There were so many gems in this podcast that I decided to take notes for a couple of reasons. Firstly, without reviewing something you tend to forget it pretty quickly, and secondly, I’m hoping to set the standard for future show notes on the Tim Ferriss Show. If you agree that this is how they should be, then [send Ferriss a quick tweet](https://twitter.com/tferriss).<span id="more-1546"></span>

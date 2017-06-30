@@ -3,7 +3,7 @@ layout: post
 title: "Jonathan Waxman's Roast Chicken Recipe - A Meta-analysis"
 date: 2015-06-11
 ---
-## Jonathan Waxman's Roast Chicken Recipe - A Meta-analysis
+![Jonathan Waxman's roast chicken](/images/jonathan-waxman-roast-chicken.png "Jonathan Waxman's Roast Chicken")
 
 ### Roast Chicken
 
