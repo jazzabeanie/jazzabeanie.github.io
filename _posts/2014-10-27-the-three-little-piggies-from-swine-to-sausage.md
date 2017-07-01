@@ -170,4 +170,4 @@ The salsa calçot was the hero of this event, and you don't need to be in Catalo
 
 While technically a Valencian dish, arroz al horno can be made quite successfully using butifarra negra and butifarra bona. Arroz al horno would have to be one of my top 3 favourite Spanish dishes. The recipe will be post here once I've typed it up.
 
-If anyone is feeling inspired and wants to tackle the matanza del cerdo at home, I would suggest first trying something a little easier like haggis. This is exactly what I did and you can [read about my experience and find my recipe here](http://cavemanescapades.com/2014/08/05/how-to-make-haggis-and-impress-your-friends/ "How to make haggis and impress your friends.").
+If anyone is feeling inspired and wants to tackle the matanza del cerdo at home, I would suggest first trying something a little easier like haggis. This is exactly what I did and you can [read about my experience and find my recipe here]({{ site.baseurl }}{% post_url 2014-08-05-how-to-make-haggis-and-impress-your-friends %} "How to make haggis and impress your friends.").
