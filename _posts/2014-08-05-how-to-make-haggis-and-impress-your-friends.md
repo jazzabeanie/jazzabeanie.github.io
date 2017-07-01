@@ -32,69 +32,22 @@ Somewhat disheartened but still hopeful, I took one of the large ball of haggis 
 
 This time it was absolutely delicious. Easily the best haggis I've had, which isn't saying too much as I've only ever tasted haggis from the supermarket and local pubs. This haggis had a different texture that I'd never experience before, probably due to the ingredients being chopped by hand. It was course and every now and then you would get a little piece of lung tubing or a chunk of suet that made for an interesting and enjoyable experience. The flavour was as it should be – strongly meaty with pepper and hints of other spices. I served it with some roasted vegetables and sauerkraut. Traditionally haggis is served with mashed turnips and mashed potatoes which, although delicious, is done ad nauseam in Scotland.
 
-<table>
+EQUIPMENT
+*   Knife & chopping board
+*   Large mixing bowl
+*   Large saucepan
+*   Steaming rack
 
-<tbody>
-
-<tr>
-
-<td style="font-size: 30px; vertical-align: middle; height: 2em;" colspan="3" align="center" width="227">HAGGIS</td>
-
-</tr>
-
-<tr>
-
-<td style="vertical-align: middle; height: 2em;" align="center" valign="top" width="227">INGREDIENTS</td>
-
-<td style="vertical-align: middle; height: 2em;" valign="top" width="29"></td>
-
-<td style="vertical-align: middle; height: 2em;" align="center" valign="top" width="227">EQUIPMENT</td>
-
-</tr>
-
-<tr>
-
-<td style="padding-top: 1em;" valign="top" width="227">
-
-1 sheep's pluck <span class="ExtraInfo">sheep's heart, liver, and lungs</span>
-
-250g beef suet <span class="ExtraInfo">finely diced</span>
-
-1 ox bung <span class="ExtraInfo">thoroughly rinsed in several changes of water</span>
-
-2 large brown onions <span class="ExtraInfo">finely diced</span>
-
-3/4 cup steel cut oats <span class="ExtraInfo"><span style="line-height: 15px;">also known as pinhead or Scottish oats (optionally toasted)</span></span>
-
-2 lemons
-
-Various dried herbs and spices <span class="ExtraInfo">eg, paprika, cayenne pepper, oregano, thyme, etc</span>
-
-1-2 tablespoons of salt
-
-1-2 tablespoons of pepper
-
-</td>
-
-<td style="padding-top: 1em;" valign="top" width="29"></td>
-
-<td style="padding-top: 1em;" valign="top" width="227">
-
-Knife & chopping board
-
-Large mixing bowl
-
-Large saucepan
-
-Steaming rack
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+INGREDIENTS
+*   1 sheep's pluck <span class="ExtraInfo">sheep's heart, liver, and lungs</span>
+*   250g beef suet <span class="ExtraInfo">finely diced</span>
+*   1 ox bung <span class="ExtraInfo">thoroughly rinsed in several changes of water</span>
+*   2 large brown onions <span class="ExtraInfo">finely diced</span>
+*   3/4 cup steel cut oats <span class="ExtraInfo"><span style="line-height: 15px;">also known as pinhead or Scottish oats (optionally toasted)</span></span>
+*   2 lemons
+*   Various dried herbs and spices <span class="ExtraInfo">eg, paprika, cayenne pepper, oregano, thyme, etc</span>
+*   1-2 tablespoons of salt
+*   1-2 tablespoons of pepper
 
 METHOD
 
@@ -124,68 +77,11 @@ Suggested beverage accompaniment: Lagavulin 16 single malt scotch whisky.
 
 Note: Unfortunately for Americans, lungs aren't legally available. Apparently, tongue and kidneys are a decent substitute.
 
-<div id="gallery-1" class="gallery galleryid-729 gallery-columns-4 gallery-size-thumbnail">
-
-<dl class="gallery-item">
-
-<dt class="gallery-icon landscape">[![](https://i0.wp.com/www.cavemanescapades.com.au/wp-content/uploads/2014/05/2014-02-24-21-51-47.jpg?resize=150%2C150)](http://www.cavemanescapades.com.au/2014/08/05/how-to-make-haggis-and-impress-your-friends/2014-02-24-21-51-47/)</dt>
-
-<dd class="wp-caption-text gallery-caption" id="gallery-1-845">Finished product</dd>
-
-</dl>
-
-<dl class="gallery-item">
-
-<dt class="gallery-icon portrait">[![](https://i1.wp.com/www.cavemanescapades.com.au/wp-content/uploads/2014/05/2014-02-24-21-18-45.jpg?resize=150%2C150)](http://www.cavemanescapades.com.au/2014/08/05/how-to-make-haggis-and-impress-your-friends/2014-02-24-21-18-45/)</dt>
-
-<dd class="wp-caption-text gallery-caption" id="gallery-1-844">steaming the haggis</dd>
-
-</dl>
-
-<dl class="gallery-item">
-
-<dt class="gallery-icon landscape">[![](https://i2.wp.com/www.cavemanescapades.com.au/wp-content/uploads/2014/05/2014-02-21-19-05-29.jpg?resize=150%2C150)](http://www.cavemanescapades.com.au/2014/08/05/how-to-make-haggis-and-impress-your-friends/2014-02-21-19-05-29/)</dt>
-
-<dd class="wp-caption-text gallery-caption" id="gallery-1-843">Haggis ready to cook</dd>
-
-</dl>
-
-<dl class="gallery-item">
-
-<dt class="gallery-icon landscape">[![](https://i0.wp.com/www.cavemanescapades.com.au/wp-content/uploads/2014/05/2014-02-21-18-54-31.jpg?resize=150%2C150)](http://www.cavemanescapades.com.au/2014/08/05/how-to-make-haggis-and-impress-your-friends/2014-02-21-18-54-31/)</dt>
-
-</dl>
-
-<dl class="gallery-item">
-
-<dt class="gallery-icon landscape">[![](https://i2.wp.com/www.cavemanescapades.com.au/wp-content/uploads/2014/05/img_5324.jpg?resize=150%2C150)](http://www.cavemanescapades.com.au/2014/08/05/how-to-make-haggis-and-impress-your-friends/img_5324/)</dt>
-
-<dd class="wp-caption-text gallery-caption" id="gallery-1-841">Boiled offal</dd>
-
-</dl>
-
-<dl class="gallery-item">
-
-<dt class="gallery-icon landscape">[![](https://i2.wp.com/www.cavemanescapades.com.au/wp-content/uploads/2014/05/img_5319.jpg?resize=150%2C150)](http://www.cavemanescapades.com.au/2014/08/05/how-to-make-haggis-and-impress-your-friends/img_5319/)</dt>
-
-<dd class="wp-caption-text gallery-caption" id="gallery-1-840">Cleaning the casing</dd>
-
-</dl>
-
-<dl class="gallery-item">
-
-<dt class="gallery-icon landscape">[![](https://i2.wp.com/www.cavemanescapades.com.au/wp-content/uploads/2014/05/img_5302.jpg?resize=150%2C150)](http://www.cavemanescapades.com.au/2014/08/05/how-to-make-haggis-and-impress-your-friends/img_5302/)</dt>
-
-<dd class="wp-caption-text gallery-caption" id="gallery-1-839">Boiling the lungs</dd>
-
-</dl>
-
-<dl class="gallery-item">
-
-<dt class="gallery-icon landscape">[![](https://i2.wp.com/www.cavemanescapades.com.au/wp-content/uploads/2014/05/img_5297.jpg?resize=150%2C150)](http://www.cavemanescapades.com.au/2014/08/05/how-to-make-haggis-and-impress-your-friends/img_5297/)</dt>
-
-<dd class="wp-caption-text gallery-caption" id="gallery-1-838">Top left: suet; bottom left: liver; right: sheeps pluck held by the heart</dd>
-
-</dl>
-
-</div>
+![01.jpg](/images/haggis/01.jpg)
+![02.jpg](/images/haggis/02.jpg)
+![03.jpg](/images/haggis/03.jpg)
+![04.jpg](/images/haggis/04.jpg)
+![05.jpg](/images/haggis/05.jpg)
+![06.jpg](/images/haggis/06.jpg)
+![07.jpg](/images/haggis/07.jpg)
+![08.jpg](/images/haggis/08.jpg)
