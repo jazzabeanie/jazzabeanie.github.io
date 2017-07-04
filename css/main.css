@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-size: 1.5em;
 }
 
 /* read here: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
@@ -42,13 +43,11 @@ h1 {
 }
 
 p {
-    font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 
 ul {
-    font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
@@ -60,7 +59,6 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
 }
 
 ul.posts li {
