@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning / Teaching English (and other languages)"
-date: 2015-02-23
+date: 2015-02-01
 ---
 ![Some useless image](/images/teaching-english.jpg)
 
