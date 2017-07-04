@@ -10,3 +10,5 @@ TODO: add existing content
 TODO: set up custom URL https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 TODO: read guide https://help.github.com/categories/20/articles
 TODO: address Next Steps on [github-pages tutorial](http://jmcglone.com/guides/github-pages/)
+
+Helpful markdown cheatsheet:  http://packetlife.net/media/library/16/Markdown.pdf
