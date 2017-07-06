@@ -2,6 +2,7 @@
 layout: post
 title: "7 things the dummies at Apple should have done in iOS 1.1"
 date: 2016-04-10
+tag: archived
 ---
 ![Apple darp](/images/ios1_1/01.jpg)
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Paleo On A Budget"
 date: 2014-02-04
+tag: archived
 ---
 _**Edit (15 April 2014):** I lost interest in the paelo diet and abandoned this post about half way through the experiment. I was doing some reading online and came across some interesting articles. [This blog post](http://spartandiet.org/blog/2013/6/3/sorry-paleo-people-grains-are-part-of-the-human-diet) talks about how grains are historically part of the human diet and references [this article](http://www.sciencedaily.com/releases/2013/06/130603163749.htm) which summarises a study from the University of Utah. It seems that whatever you choose to believe regarding the human diet, you can find resources to support those beliefs. Classic confirmation bias._
 

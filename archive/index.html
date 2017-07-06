@@ -1,15 +1,12 @@
 ---
 layout: default
-title: All posts
+title: Archive
 ---
 <h1>{{ page.title }}</h1>
 <ul class="posts">
-
     {% for post in site.posts %}
-      {% unless post.tags contains 'archived' %}
+      {% if post.tags contains 'archived' %}
         <li><span>{{ post.date | date_to_string }}</span> -- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-      {% endunless %}
+      {% endif %}
     {% endfor %}
-    <li><a href="{{ site.url }}/archive" title="Archived posts">Archived posts</a></li>
-
 </ul>

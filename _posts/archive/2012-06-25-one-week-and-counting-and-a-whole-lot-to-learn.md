@@ -2,6 +2,7 @@
 layout: post
 title: "One week and counting and a whole lot to learn"
 date: 2012-06-25
+tag: archived
 ---
 I had a slight epiphany today and I thought it fitting to share just as a general reminder for all. If you've ever planned a big trip such as the one that Jared and I are currently, you will understand that giving the proper amount of love and attention to one's “to-do list” before departure is part and parcel of the whole gig and highly recommended for maintaining safe levels of sanity. Attending to mine thoughtfully today, I found myself waiting patiently in line at the GoVia toll office with the intention of returning my electronic tag. I was surprised to find the small reception space filled with approximately 12 to 15 people (an unusual amount for that time of day at that particular office). As I stood in the stagnant line, thinking of nothing in particular, I felt that my annoyance levels were climbing steadily. I started to get fidgety, checking the time on my phone every couple of minutes, starting to find it “unbelievable” that there weren't more staff on and thinking “what could be taking so long?” I had a lunch to attend.
 

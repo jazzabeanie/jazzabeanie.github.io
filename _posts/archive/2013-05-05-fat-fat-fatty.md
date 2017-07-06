@@ -2,6 +2,7 @@
 layout: post
 title: "Fat Fat Fatty"
 date: 2013-05-05
+tag: archived
 ---
 ![Fat Fat Fatty!](/images/fat-fat-fatty.jpg)
 

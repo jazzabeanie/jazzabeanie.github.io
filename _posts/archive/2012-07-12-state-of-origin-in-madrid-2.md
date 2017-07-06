@@ -2,6 +2,7 @@
 layout: post
 title: "State of Origin in Madrid"
 date: 2012-07-12
+tag: archived
 ---
 When we found out that we were going to be in Madrid for State of Origin game three, we were a little concerned. For me this is the biggest game of the year. I’d rather see QLD beat NSW at a State of Origin decider than Australia win the World Cup – something that the Spaniards may find hard to fathom.
 
