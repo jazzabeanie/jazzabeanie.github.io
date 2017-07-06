@@ -1,0 +1,1 @@
+<p>I am a currently living in Andalusia, the home of flamenco, trying to learn the art. I have attempted to deconstruct it Tim Ferriss style and I'm putting it out there for anyone else looking to do the same.</p>

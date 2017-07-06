@@ -1,0 +1,1 @@
+<p>For those who think Australia is the dream land, I've put together a small compilation of media.</p><p>http://www.theguardian.com/world/2014/feb/11/government-launches-new-graphic-campaign-to-deter-asylum-seekers</p><p>http://www.youtube.com/watch?v=2yIttkuO-ag</p><p>http://www.youtube.com/watch?v=GWaRyKUNTy8</p><p>http://www.youtube.com/watch?v=lqdJXOwywnA</p><p> </p>
