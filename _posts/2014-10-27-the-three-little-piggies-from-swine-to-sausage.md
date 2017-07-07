@@ -2,6 +2,8 @@
 layout: post
 title: "The Three Little Piggies — From Swine to Sausage"
 date: 2014-10-27
+tag: homepage
+cover_photo: '/images/la-matanza/02.jpg'
 ---
 For a year over 2011 and 2012 Mark Zuckerberg only ate meat from animals that he had personally killed in an attempt to remind himself what it means to eat meat. In the modern western world most people are completely disconnected from the food they eat. It's so easy to get food that is ready made, or vegetables that have been picked, washed, peeled, chopped, and wrapped in plastic. If you're a city dweller without connections, it's very difficult to get your meat the old fashioned way. Meat bought from the supermarket or butcher is ready to go straight into the pan. If it wasn't for the label, most people wouldn't even know what they were eating. [Actually, even with the label most people have no idea](http://gentleworld.org/the-gross-truth-about-natural-flavors/).
 

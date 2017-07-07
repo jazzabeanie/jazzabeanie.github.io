@@ -2,6 +2,8 @@
 layout: post
 title: "Tartiflette"
 date: 2015-07-23
+tag: homepage
+cover_photo: '/images/tartiflette.jpeg'
 ---
 ![Tartiflette](/images/tartiflette.jpeg)
 

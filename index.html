@@ -5,12 +5,13 @@ title: Caveman Escapades
 <div class="blurb">
   <h1>Caveman Escapades</h1>
   <p>This is a blog. Mostly about food.</p>
-  <ul class="posts">
 
+  {% include home_table.html %}
+  <!--<ul class="posts">
     {% for post in site.posts %}
       {% unless post.tags contains 'archived' %}
-        <li><span>{{ post.date | date_to_string }}</span> -- <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> -- <a href="{{ post.url }}" title="{{ post.title }}"><h2>{{ post.title }}</h2></a></li>
       {% endunless %}
     {% endfor %}
-  </ul>
+  </ul>-->
 </div><!-- /.blurb -->

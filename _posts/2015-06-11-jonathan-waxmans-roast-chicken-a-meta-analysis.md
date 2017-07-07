@@ -2,8 +2,10 @@
 layout: post
 title: "Jonathan Waxman's Roast Chicken Recipe - A Meta-analysis"
 date: 2015-06-11
+tag: homepage
+cover_photo: '/images/jonathan-waxman-roast-chicken.png'
 ---
-![Jonathan Waxman's roast chicken](/images/jonathan-waxman-roast-chicken.png "Jonathan Waxman's Roast Chicken")
+![Jonathan Waxman's roast chicken]({{ page.cover_photo }} "Jonathan Waxman's Roast Chicken")
 
 ### Roast Chicken
 
