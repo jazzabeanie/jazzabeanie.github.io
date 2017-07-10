@@ -1,11 +1,14 @@
 ---
 ---
+$information-phone: "screen and (max-width: 1050px)"
 
 body
-    margin: 60px auto
-    width: 70%
+    margin: auto
     font-size: 1.5em
     color: #333
+    width: 1050px
+    @media #{$information-phone}
+        width: 100%
 
 
 /* read here: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
@@ -24,8 +27,7 @@ nav
 
 img
     max-width: 100%
-    max-height: 100%
-
+    /* max-height: 100% */
 
 
 a
@@ -39,6 +41,8 @@ h1
     font-size: 3em
     font-family: 'Helvetica', 'Arial', 'Sans-Serif'
     color: #000000
+    @media #{$information-phone}
+        font-size: 2em
 
 
 h3
