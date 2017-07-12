@@ -6,7 +6,7 @@ installed Jekyll
 ran though this tutorial: http://jmcglone.com/guides/github-pages/
 changed to  Sass
 make css responsive
-Installed bootstrap with `gem install bootstrap-sass`
+Installed bootstrap with https://kvurd.com/blog/my-jekyll-blog-setup-bootstrap-sass-pygments/
 
 
 TODO: Use flexbox on the nav bar: https://css-tricks.com/snippets/css/a-guide-to-flexbox/

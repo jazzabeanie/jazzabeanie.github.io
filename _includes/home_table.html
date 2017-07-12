@@ -1,4 +1,4 @@
-<div class="row">
+<div>
   {% for post in site.posts%}
     {% if post.tags contains 'homepage' %}
         <div class="col-lg-4">
@@ -10,15 +10,3 @@
     {% endif %}
   {% endfor %}
 </div>
-<!--
-<table class="home">
-  {% for post in site.posts%}
-    {% if post.tags contains 'homepage' %}
-    <tr>
-        <td><a href="{{ post.url }}"><img src="{{ post.cover_photo }}"></a></td>
-        <td><a href="{{ post.url }}"><h3>{{ post.title }}</h3></a></td>
-      </tr>
-    {% endif %}
-  {% endfor %}
-</table>
--->
