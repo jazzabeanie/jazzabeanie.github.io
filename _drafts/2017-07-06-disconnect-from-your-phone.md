@@ -1,6 +1,6 @@
 ---
 layout: post
-: "Free yourself from the enslavment of your phone"
+title: "Free yourself from the enslavement of your phone"
 date: 2017-07-07
 ---
 How to not be such a slave to the phone.
