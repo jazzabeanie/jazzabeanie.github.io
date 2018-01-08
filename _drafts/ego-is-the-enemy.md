@@ -69,30 +69,47 @@ How can you make sure passion doesn't dominate your decision making? When making
 
 How can you call on passion in difficult time? Add inspiring things to Evernote with the tag "inspiration". ACTION: Add "How is my passion for __BLANK__ ?" to your goal review. Keep track of movies, fiction books, and other entertainment on the subject of your passion. Use this when you need a break so that you recuperate your passion while you rest.
 
-## Chapter 5: Find Canvases of Other People (Chapter 9)
+## Chapter 5: Find Canvases of Other People
 
 This chapter reminded me of something I heard on a Podcast once, "it's amazing what you can get done when you don't need to take credit for the work".
 
 Do you have a feeling of entitlement? If so then re-read this chapter.
 
-## Chapter 6: __
+## Chapter 6: Restrain Yourself (Chapter 10)
 
 Control your anger and don't let it play into your decisions. This is easier said than done. Sometimes we find ourself in situations where know we shouldn't do something but we physically can't stop ourselves. Anger will often do this.
 
 ACTION: Work meditation into your daily routine. This will help you do pull yourself out of anger before you do something regrettable.
 
-## Chapter 7: __
+## Chapter 7: Get Out of Your Head (Chapter 11)
 
 This chapter is about the stream of thoughts that tell you how good you are. The thoughts themselves are not the problem. The problem is getting stuck in the through stream and believing it. If we catch yourselves in this thought stream then we remove it's power. Meditation will help with this. If you find this stream of egotistical thoughts to be a constant problem, then create a reminder in your calendar with the following quote:
 
 "You can't really claim that you are the author of anything good that you find in yourself."
 --Sam Harris
 
+Consider avoiding situations that inflate the ego. In social situations, give away credit to others, even when it is rightfully yours.
+
 Keep your diary private. If you ever share the contents of your diary, make sure you read it privately first. Make sure that your diary is a safe place for honest thoughts. These simple rules will mitigate against creating a system that leads you to filter your own thoughts.
 
+## Chapter 8: The Danger of Early Pride (Chapter 12)
+
+Pride dulls the sense of negative feedback, robbing you of an opportunity to grow.
+
+"If you can't swallow your pride, you can't lead. Pride will be harder to subdue than a wild lion. Even the tallest mountains have animals, that when they stand on it, are higher than the mountain."
+--Genghis Kahn
+
+Jocko Willink would agree that pride and leadership don't mix.
+
+It is good to be on guard against haters, but we should be even more on guard against the our own ego. When you feel pride, ask your self this question, "what am I missing now, that a more humble person might see?".
+
+ACTION: Consider the following questions in your monthly life reflection, "When have I been overly proud lately? When have I boasted? What was I missing in that moment that a more humble person would have seen?".
+
+## Chapter 9: Work, Work, Work (Audible Chapter 13)
 
 
 
+https://gallery.mailchimp.com/dcd3642d86121fbcaa9914228/files/EGO_IS_THE_ENEMY_Full_Bibliography.pdf?utm_source=Ego+Is+The+Enemy&utm_campaign=7cd02833b6-Ego_Download_Autoresponder_4_7_2015&utm_medium=email&utm_term=0_d4406cd3e2-7cd02833b6-416142973 
 
 ------------
 Many of these issues seem like they would be helped by meditation. Action: meditate.
