@@ -107,6 +107,54 @@ ACTION: Consider the following questions in your monthly life reflection, "When 
 
 ## Chapter 9: Work, Work, Work (Audible Chapter 13)
 
+Ego wants results without putting in work. Remember that hard work is required. Learn to love it.
+
+## Part II: Success
+
+Addressing your ego should be more important that achieving success. Many people get taken by ego after they have become successful. Is this because they didn't ever address their ego, or because they failed to keep addressing it? I dare say you need to do both.
+
+## Chapter 12: Don't Tell Yourself a Story (Audible Chapter 17)
+
+>"Don't think about what your rapid achievements say about you, and begin to slacken the effort and standards that initially fuelled them"
+>-- Ryan Holiday
+
+After reading this chapter it's temping to say, "disregard personal stories of success", but I think the value can be found in these stories. The real takeaway is to take them witha  grain of salt. They can be exaggerated, fabricated, or remembered incorrectly.
+
+This reminds me of a verse from The Sunscreen Song:
+
+>Be careful whose advice you buy, but
+>be patient with those who supply it
+>Advice is a form of nostalgia
+>dispensing it is a way of fishing the past from the disposal, wiping it off
+>painting over the ugly parts and recycling it for more than it's worth
+
+>"The way to do really big things seems to be to start with deceptively small things."
+>--Paul Graham
+
+Ie, you don't make a frontal attack out of ego. Instead you start with a small bet and iteratively scale your ambitions as you go.
+
+>"Keep your identity small"
+>-- Paul Graham
+
+Avoid labels. As well as making us think we are finished, labels and identity make it hard for us to change our beliefs. It might have been Tucker Max that I first heard talking about this idea.
+
+## Chapter 13: What's Important to You (Audible Chapter 18)
+
+>"All of us regularly say 'yes', unthinkingly or out of vague attraction, or out of greed or vanity. Because we can't say no, because we might miss out on something if we did. We think that 'yes' will let us accomplish more. But in reality it prevents exactly what we seek. All of us waste precious life doing things we don't like, to prove ourselves to people we don't respect, and to get things we don't want."
+>-- Ryan Holiday
+
+>"According to Seneca, the Greek work 'Eutimia' is one we should think of often. It is the sense of our own path and how to stay on it without getting distracted by all the other that intersect it."
+>-- Ryan Holiday
+
+Put a reminder in your calendar once a month that reads "What can I cut out of my life?".
+
+>"It's time to sit down and think about what is truly important to you and take steps to forsake the rest. Without this success will not be pleasurable, or nearly as complete as it should be. Or worse, it wont last. This is especially true with money. If you don't know how much you need, the default easily becomes more."
+>-- Ryan Holiday
+
+Tim Ferriss has an exercise in the 4 Hour Work Week where you figure out what you would do with your life if money was not an issue for you, then you calculate exactly how much it costs to live that way. This exercise should be done regularly, perhaps yearly.
+
+
+
 
 
 https://gallery.mailchimp.com/dcd3642d86121fbcaa9914228/files/EGO_IS_THE_ENEMY_Full_Bibliography.pdf?utm_source=Ego+Is+The+Enemy&utm_campaign=7cd02833b6-Ego_Download_Autoresponder_4_7_2015&utm_medium=email&utm_term=0_d4406cd3e2-7cd02833b6-416142973 
