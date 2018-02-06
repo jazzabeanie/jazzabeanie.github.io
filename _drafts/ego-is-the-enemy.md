@@ -151,8 +151,19 @@ Put a reminder in your calendar once a month that reads "What can I cut out of m
 >"It's time to sit down and think about what is truly important to you and take steps to forsake the rest. Without this success will not be pleasurable, or nearly as complete as it should be. Or worse, it wont last. This is especially true with money. If you don't know how much you need, the default easily becomes more."
 >-- Ryan Holiday
 
-Tim Ferriss has an exercise in the 4 Hour Work Week where you figure out what you would do with your life if money was not an issue for you, then you calculate exactly how much it costs to live that way. This exercise should be done regularly, perhaps yearly.
+Tim Ferriss has an exercise in the 4 Hour Work Week where you figure out what you would do with your life if money was not an issue for you, then you calculate exactly how much it costs to live that way. This exercise should be done regularly, perhaps yearly. ACTION: Add exercise to your goals for the year and complete it at the final review.
 
+>"So why do you do what you do? That's the question you need to answer. Stare at it until you can. Only then will you understand what matters and what doesn't. Only then can you say 'no', can you opt out of stupid races that don't matter or even exist. Only the is it easy to ignore 'successful' people, because most of the time they aren't, at least relative to you, and often even to themselves. Only then can you develop the quite confidence Seneca talked about."
+>-- Ryan Holiday
+
+ACTION: Sit down with pen and paper and brainstorm on the question, "Why do you do what you do?". Then ponder the results. Repeat this daily until you have your answer.
+
+>"The more you have and do, the harder maintaining fidelity to your purpose will be, but the more critically you will need to."
+>-- Ryan Holiday
+
+Remember this before you say yes to anything else: There is always a compromise. Always a downside. The best thing about something is often also the worst thing. If something has a good side, then it also has a bad side.
+
+## Chapter 14: Entitlement, Control, and Paranoia (Audible Chapter 19)
 
 
 
