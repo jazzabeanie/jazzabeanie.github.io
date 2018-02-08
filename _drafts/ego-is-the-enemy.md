@@ -2,6 +2,7 @@
 layout: post
 title: "Ego Is The Enemy by Ryan Holiday - Notes and thoughts"
 date: 
+description: A supplement to Ryan Holiday's book, Ego Is The Enemy
 ---
 "There is humility engender by looking closely at what you're calling your self, and seeing that you didn't make yourself. Your strengths are a gift. You can't really claim that you are the author of anything good that you find in yourself."
 --Sam Harris
@@ -165,6 +166,7 @@ Remember this before you say yes to anything else: There is always a compromise.
 
 ## Chapter 14: Entitlement, Control, and Paranoia (Audible Chapter 19)
 
+Holiday argues that sometimes the traits that get you to the top can be the ones that ruin you once you get there. Your assets can become liabilities. Regular self reflection may be the answer.
 
 
 
