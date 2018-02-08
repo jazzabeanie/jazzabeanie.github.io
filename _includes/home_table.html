@@ -3,9 +3,9 @@
     {% if post.tags contains 'homepage' %}
         <div class="col-lg-4">
           <a href="{{ post.url }}"><img src="{{ post.cover_photo }}"></a>
-          <h2>{{ post.title }}</h2>
+          <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="{{ post.url }}" role="button">View details &raquo;</a></p>
         </div>
     {% endif %}
   {% endfor %}
