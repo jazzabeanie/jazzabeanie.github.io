@@ -168,6 +168,22 @@ Remember this before you say yes to anything else: There is always a compromise.
 
 Holiday argues that sometimes the traits that get you to the top can be the ones that ruin you once you get there. Your assets can become liabilities. Regular self reflection may be the answer.
 
+>"A smart man or woman must regularly remind themselves of the limits of their power and reach"
+>-- Ryan Holiday
+
+ACTION: Add this to the monthly routine.
+
+"He who indulges empty fears, earns himself real fears."
+-- Seneca (on destructive paranoia)
+
+## Chapter 16: Beware The Disease Of Me (Audible Chapter 21)
+
+
+
+
+
+
+
 
 
 https://gallery.mailchimp.com/dcd3642d86121fbcaa9914228/files/EGO_IS_THE_ENEMY_Full_Bibliography.pdf?utm_source=Ego+Is+The+Enemy&utm_campaign=7cd02833b6-Ego_Download_Autoresponder_4_7_2015&utm_medium=email&utm_term=0_d4406cd3e2-7cd02833b6-416142973 
