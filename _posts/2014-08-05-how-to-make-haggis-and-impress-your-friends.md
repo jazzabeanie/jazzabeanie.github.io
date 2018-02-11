@@ -2,6 +2,9 @@
 layout: post
 title: "How to Make Haggis and Impress Your Friends"
 date: 2014-08-05
+tag: homepage
+description: A surprisingly delicious bag of chopped offal.
+cover_photo: '/images/haggis/thumb.jpg'
 ---
 <iframe src="https://www.flickr.com/photos/41134346@N03/7149701171/in/photolist-e1vRiK-bixtJF-2EpvUV-yDdw6-yDduX-eTQmQ-96ncDa-yuVzW-biBzHT-mg1BUu-bTN64R-7uvHpN-5QHhZw-71vq1Q-71vqxu-71rpeD-71vp3Y-71vpwE-71rnmK-yuVA5-8Jjkj6-9pGNKW-ea3XaJ-axeJVQ-boQoD2-71vnHU-71vkkh-71rnJB-71vodW-RjEhb-7urCE8-juEu4S-5UEQZs-iQn5Dr-7zWFz4-9wceTG-9H12ka-hi1fqu-hi1fLu-6TSoAt-yDdtV-54Pq9-yuVA1-jDGHrp-d1w6R-fUWQaB-yuVAb-2b5Lgr-yEtmS-8jUrKy/player/" width="800" height="531" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
