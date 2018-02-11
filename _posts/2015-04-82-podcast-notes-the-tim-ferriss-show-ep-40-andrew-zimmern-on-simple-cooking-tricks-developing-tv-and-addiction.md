@@ -3,6 +3,7 @@ layout: post
 title: "Podcast notes — The Tim Ferriss Show Ep 40: Andrew Zimmern on Simple Cooking Tricks, Developing TV, and Addiction"
 date: 2015-04-28
 tag: homepage
+description: Cooking tips from a master.
 cover_photo: '/images/andrew-zimmern.jpg'
 ---
 ![Andrew Zimmern]({{ page.cover_photo }})

@@ -4,8 +4,7 @@
         <div class="col-lg-4">
           <a href="{{ post.url }}"><img src="{{ post.cover_photo }}"></a>
           <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-          {% if post.description %}<meta name="description" content="{{ post.description  }}">{% endif %}
-          <!--<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>-->
+          {% if post.description %}<p>{{ post.description  }}</p>{% endif %}
           <p><a class="btn btn-primary" href="{{ post.url }}" role="button">View details &raquo;</a></p>
         </div>
     {% endif %}
