@@ -176,7 +176,14 @@ ACTION: Add this to the monthly routine.
 "He who indulges empty fears, earns himself real fears."
 -- Seneca (on destructive paranoia)
 
-## Chapter 16: Beware The Disease Of Me (Audible Chapter 21)
+## Chapter 2_: Meditate on the immensity (Audible Chapter 22)
+
+"It's hard to be self absorbed and convinced of your own greatness in side the solitude and quite of a sensory deprivation tank. It's hard to be anything but humble, walking alone on a beach, late at night, with an endless black ocean crashing loudly against the ground next to you. We have to actively seek out this cosmic sympathy."
+-- Ryan Holiday
+
+Be vulnerable and experience the infinite once in a while. ACTION: Add a late night beach walks or float tank sessions to the monthly routine.
+
+## Chapter 2_: Maintain your sobriety (Audible Chapter 23)
 
 
 
