@@ -7,8 +7,8 @@ description: A supplement to Ryan Holiday's book, Ego Is The Enemy
 "There is humility engender by looking closely at what you're calling your self, and seeing that you didn't make yourself. Your strengths are a gift. You can't really claim that you are the author of anything good that you find in yourself."
 --Sam Harris
 
-See bibliography: https://gallery.mailchimp.com/dcd3642d86121fbcaa9914228/files/EGO_IS_THE_ENEMY_Full_Bibliography.pdf?utm_source=Ego+Is+The+Enemy&utm_campaign=7cd02833b6-Ego_Download_Autoresponder_4_7_2015&utm_medium=email&utm_term=0_d4406cd3e2-7cd02833b6-416142973
-And quotes: https://gallery.mailchimp.com/dcd3642d86121fbcaa9914228/files/EGOISTHEENEMY_BONUS_Quotes_2.pdf?utm_source=Ego+Is+The+Enemy&utm_campaign=7cd02833b6-Ego_Download_Autoresponder_4_7_2015&utm_medium=email&utm_term=0_d4406cd3e2-7cd02833b6-416142973
+See [bibliography](https://gallery.mailchimp.com/dcd3642d86121fbcaa9914228/files/EGO_IS_THE_ENEMY_Full_Bibliography.pdf?utm_source=Ego+Is+The+Enemy&utm_campaign=7cd02833b6-Ego_Download_Autoresponder_4_7_2015&utm_medium=email&utm_term=0_d4406cd3e2-7cd02833b6-416142973)
+And [quotes](https://gallery.mailchimp.com/dcd3642d86121fbcaa9914228/files/EGOISTHEENEMY_BONUS_Quotes_2.pdf?utm_source=Ego+Is+The+Enemy&utm_campaign=7cd02833b6-Ego_Download_Autoresponder_4_7_2015&utm_medium=email&utm_term=0_d4406cd3e2-7cd02833b6-416142973)
 
 ## Chapter 1: Talk Talk Talk
 Ryan argues that you shouldn't tell people about your goals.
@@ -176,14 +176,34 @@ ACTION: Add this to the monthly routine.
 "He who indulges empty fears, earns himself real fears."
 -- Seneca (on destructive paranoia)
 
-## Chapter 2_: Meditate on the immensity (Audible Chapter 22)
+## Chapter 17: Meditate on the immensity (Audible Chapter 22)
 
 "It's hard to be self absorbed and convinced of your own greatness in side the solitude and quite of a sensory deprivation tank. It's hard to be anything but humble, walking alone on a beach, late at night, with an endless black ocean crashing loudly against the ground next to you. We have to actively seek out this cosmic sympathy."
 -- Ryan Holiday
 
 Be vulnerable and experience the infinite once in a while. ACTION: Add a late night beach walks or float tank sessions to the monthly routine.
 
-## Chapter 2_: Maintain your sobriety (Audible Chapter 23)
+## Chapter 18: Maintain your sobriety (Audible Chapter 23)
+
+"Sobriety is the counterweight that must balance out success. Especially if things keep getting better and better"
+-- Ryan Holiday
+
+Success makes you drunk. Live modestly to stay sober. This is yet another reason to practice poverty.
+
+## Chapter 19: For What Often Comes Next, Ego is the Enemy (Audible Chapter 24)
+
+"We know what decisions we must make to avoid that ignominious even pathetic end - protecting our sobriety eschewing greed and paranoia, staying humble, retaining our sense of purpose, connecting to the larger world around us"
+-- Ryan Holiday
+
+## Part III: Failure
+
+## Chapter 20: Alive Time or Dead Time? (Audible Chapter 25)
+
+"Almost always, the road to victory goes through a place called failure"
+-- Bill Walsch
+
+"Ego loves this notion - the idea that something is fair or not. Psychologists call it narcissistic injury, when we take personally totally indifferent and objective events. We do that when our sense of self is fragile and dependant on life going our way all the time. Whether what you're going through is your fault or your problem doesn't matter, because it's yours to deal with right now."
+-- Ryan Holiday
 
 
 
