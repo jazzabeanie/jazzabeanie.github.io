@@ -17,7 +17,9 @@ Recipes
 
 These I have tried and can recommend:
 
-- The best guacamole - [video](https://www.youtube.com/watch?v=7KjWFcIi4_8) | [text](https://www.seriouseats.com/recipes/2012/01/the-best-basic-guacamole-recipe.html)
+- The best guacamole - [video](https://www.youtube.com/watch?v=7KjWFcIi4_8) - [text](https://www.seriouseats.com/recipes/2012/01/the-best-basic-guacamole-recipe.html)
+
+Mash in molcajete: 1 small shallot (chopped), 1 chili (chopped), half bunch fresh coriander (chopped), salt. Mash 3-4 avocados with fork. Mix in sauce from molcajete. Adjust salt and lime to taste. Serve.
 
 These I have not tried but intend to:
 
@@ -28,3 +30,7 @@ These I have not tried but intend to:
 - [Roasted Salsa](https://www.yummly.com/recipe/Molcajete-Roasted-Salsa-9183200#directions)
 - [Salsa Verde](https://www.yummly.com/recipe/Salsa-Verde-Molcajete-Style-2236732#directions)
 
+<!--
+https://www.qr-code-generator.com/
+TODO: generate a QR code to this website, print it, and glue it to the bottom of the molcajete, then paint it with resin.
+-->
