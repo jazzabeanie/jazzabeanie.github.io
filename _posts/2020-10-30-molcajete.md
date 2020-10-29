@@ -5,7 +5,7 @@ date: 2020-10-30
 description: What to make with a molcajete
 ---
 
-This is a why a molcajete / pestal and mortar is so good: 
+A molcajete is basically a big pestle and mortar. This is a why it's so good: 
 
 - [https://www.seriouseats.com/2018/08/best-mortars-and-pestles.html]()
 - [https://www.seriouseats.com/2017/06/freeze-basil-leaves-for-food-processor-pesto-curry-paste.html]()
@@ -19,8 +19,6 @@ These I have tried and can recommend:
 
 - The best guacamole - [video](https://www.youtube.com/watch?v=7KjWFcIi4_8) | [text](https://www.seriouseats.com/recipes/2012/01/the-best-basic-guacamole-recipe.html)
 
-TODO: write the short version
-
 These I have not tried but intend to:
 
 - [Pesto](https://www.seriouseats.com/2014/07/how-to-make-the-best-pesto.html)
@@ -30,5 +28,3 @@ These I have not tried but intend to:
 - [Roasted Salsa](https://www.yummly.com/recipe/Molcajete-Roasted-Salsa-9183200#directions)
 - [Salsa Verde](https://www.yummly.com/recipe/Salsa-Verde-Molcajete-Style-2236732#directions)
 
-https://www.qr-code-generator.com/
-TODO: generate a QR code to this website, print it, and glue it to the bottom of the molcajete, then paint it with resin.
