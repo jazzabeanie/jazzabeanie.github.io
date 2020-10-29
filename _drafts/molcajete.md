@@ -27,6 +27,8 @@ These I have not tried but intend to:
 - [Curry paste](https://www.seriouseats.com/2016/07/quick-tip-faster-curry-paste-mortar-pestle-food-processor-test-best-flavor.html):
   - [Phat Phrik Khing (Dry-Style Red Thai Curry)](https://www.seriouseats.com/2016/03/phat-phrik-khing-with-tofu-long-beans-dry-fry-thai-curry-mortar-and-pestle-vegan-experience.html)
   - [Khao Soi Gai (Coconut Curry Noodle Soup With Chicken)](https://www.seriouseats.com/2014/09/recipes-from-chiang-mai-real-deal-khao-soi-gai-thai.html)
+- [Roasted Salsa](https://www.yummly.com/recipe/Molcajete-Roasted-Salsa-9183200#directions)
+- [Salsa Verde](https://www.yummly.com/recipe/Salsa-Verde-Molcajete-Style-2236732#directions)
 
 https://www.qr-code-generator.com/
 TODO: generate a QR code to this website, print it, and glue it to the bottom of the molcajete, then paint it with resin.
