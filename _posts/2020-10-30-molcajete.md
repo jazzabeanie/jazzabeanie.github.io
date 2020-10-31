@@ -30,6 +30,9 @@ These I have not tried but intend to:
 - [Roasted Salsa](https://www.yummly.com/recipe/Molcajete-Roasted-Salsa-9183200#directions)
 - [Salsa Verde](https://www.yummly.com/recipe/Salsa-Verde-Molcajete-Style-2236732#directions)
 
+
+![QR code to this page](/images/molcajete_qr.png)
+
 <!--
 https://www.qr-code-generator.com/
 TODO: generate a QR code to this website, print it, and glue it to the bottom of the molcajete, then paint it with resin.
