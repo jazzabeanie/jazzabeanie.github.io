@@ -18,6 +18,7 @@ Recipes
 These I have tried and can recommend:
 
 - The best guacamole - [video](https://www.youtube.com/watch?v=7KjWFcIi4_8) - [text](https://www.seriouseats.com/recipes/2012/01/the-best-basic-guacamole-recipe.html)
+- [Gai Lan with Ginger Sauce](https://youtu.be/a-Yu8qOAEYQ?t=138)
 
 Mash in molcajete: 1 small shallot (chopped), 1 chili (chopped), half bunch fresh coriander (chopped), salt. Mash 3-4 avocados with fork. Mix in sauce from molcajete. Adjust salt and lime to taste. Serve.
 
