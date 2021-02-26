@@ -2,12 +2,30 @@
 layout: post
 title: "Roccbox recipes"
 date: 2021-02-26
+tag: homepage
 description: A collection of my favorite Roccbox recipes
+cover_photo: '/images/roccbox.jpg'
 ---
 
-These are my favorite things to make in the Roccbox:
+These are my favorite things to make in the Roccbox
 
-- [Turkish Chese Pide](https://au.gozney.com/blogs/recipes/cheese-pide-recipe), however it's the concept of the pide that I like. Fill it with anything. Leave the oven on low and don't walk away until the pide is done.
+Turkish Chese Pide
+------------------
+
+[Turkish Chese Pide](https://au.gozney.com/blogs/recipes/cheese-pide-recipe)
+
+The official recipe is very good, however it's the concept of the pide that I like. Fill it with anything. Leave the oven on low and don't walk away until the pide is done.
+
+Dough ingredients:
+
+- 100% flour
+- 56% water
+- 0.7% yeast
+- 2% olive oil
+- 2% salt
+- 2% sugar
+
+-----
 
 These are some recipes that I want to try:
 
