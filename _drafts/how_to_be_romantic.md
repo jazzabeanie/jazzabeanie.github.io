@@ -15,7 +15,7 @@ There are many cliches in this area. I suspect they still work, but I will keep 
 New ideas
 ---------
 
-- pick some flowers from the street, put them in a little jar of water, then hide them somewhere in your room. The next day give them to her first thing in the morning and say, "these flowers have been since yesterday to see how beautiful you are".
+- pick some flowers from the street, put them in a little jar of water, then hide them somewhere in your room. The next day give them to her first thing in the morning and say, "these flowers have been waiting since yesterday to see how beautiful you are".
 - keep a playlist for slow dancing - the kind of music that highschool kids would find every exciting as a school dance. Play it occasionally and slow dance in the kitchen while you're cooking dinner.
 
 
