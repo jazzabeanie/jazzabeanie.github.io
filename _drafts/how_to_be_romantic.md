@@ -23,6 +23,5 @@ New ideas
 - keep a playlist for slow dancing - the kind of music that highschool kids would find every exciting as a school dance. Play it occasionally and slow dance in the kitchen while you're cooking dinner.
 - carve a small wooden stamp with both of your initials and a love heart.
 - take a cup of tea to the street and go people watching.
-
-
-
+- break up the routine
+  - organise something mundane to keep her free, then pick her up from work and go on a date instead. 
