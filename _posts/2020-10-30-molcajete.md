@@ -12,6 +12,8 @@ A molcajete is basically a big pestle and mortar. This is a why it's so good:
 
 Pro tip - [use the freezer](https://www.seriouseats.com/2017/06/freeze-basil-leaves-for-food-processor-pesto-curry-paste.html).
 
+[Some history about the Molcajete that I haven't read](https://masienda.com/blogs/learn/molcajete-mexican-mortar-pestle).
+
 Recipes
 -------
 
@@ -34,6 +36,7 @@ These I have not tried but intend to:
 - [Macanese African Chicken - Macau's version of Piri Piri Chicken (非洲鸡)](https://youtu.be/EbCc1FVqXn4)
 - [Tandoori Lamb Neck](https://www.youtube.com/watch?v=-SvZIM1o-Z8)
 - [Beer Marinaded Chicken](https://www.youtube.com/watch?v=7mhMyZxZGL4)
+- [Another Salsa Verde](https://masienda.com/blogs/learn/salsa-verde-molcajete)
 
 This QR code links to this webpage. Print it and put it near your molajete for easy access.
 
