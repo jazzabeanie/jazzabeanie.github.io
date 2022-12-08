@@ -1,5 +1,15 @@
 #README
 
+## Setup
+
+As of Dec 2022, the domain is hosted with Crazy Domains. Name servers are pointing to bluehost, which contains all the Zone File Records.
+
+Crazy Domain has [some information on what to set the Name server to](https://www.crazydomains.com.au/help/what-name-server-should-i-use/).
+
+I can probably copy the settings of bluehost to make it work properly, but better to read [instructions for github pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages).
+
+[More info about https on github pages](https://github.blog/2018-05-01-github-pages-custom-domains-https/).
+
 ## Log
 Set this up following: https://pages.github.com/
 installed Jekyll
