@@ -31,7 +31,7 @@ I bake my loaves at between 70 and 80 percent hydration. This means that the amo
 
 > Training youself to eyeball everything: The first time you make bread, measure 75% hydration. Notice the texture and how it feels, notice how much dry flour you can see. Touch the dough and notice how sticky it is. Notice the resistance it gives when you stir it. The next time you make a loaf, measure the water, then add same brand of flour until you think you are at about the same consistency as before, then measure how much flour you added to see how you did. If you keep doing this you will soon be able to estimate hydration just be the feel of the dough.
 
-1. Mix the dough:
+- Mix the dough:
   - Measure out 350g of water in a mixing bowl (a glass mixing bowl is preferable as it allows you to see bubble development in the dough).
   - Add the yeast. If you are making sourdough, spoon some water into the starter container to help get the starter out, then add it all to the water. Roughly break up the start in the water.
   -  Add 500g of flour and mix until the flour and water are incorporated.
