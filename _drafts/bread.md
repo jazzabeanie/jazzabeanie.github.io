@@ -19,13 +19,34 @@ The basic steps to making bread are:
 Ingredients
 -----------
 
-- W factor
-- protein as a proxy for gluten
-- yeast
-- sourdough starter (40g of water, 50g of flour)
+This is a discussion on ingredients. For quantities, see the Recipe section.
 
-Mix the dough
--------------
+- Flour
+  - W factor
+  - protein as a proxy for gluten
+- yeast - I normally use yeast when I want to make bread quicker than my starter can deliver, or when I haven't fed my starter recently. When I use yeast, I use instant dried yeast. I store it in the freezer.
+- sourdough starter (40g of water, 50g of flour)
+  - feeding routine
+- water
+  - clorinated water may affect your starter, not sure. I use filtered water.
+
+Bulk fermentation
+-----------------
+
+Being able to tell when bulk fermentation is complete is one of the most important parts of making good bread. You cannot simply follow a recipe in this regard becuase small changes in temperature and the quantity of yeast/starter used will significantly change the bulk fermentation time. For example, and 8 degree celcius (14.4F) increase in temperature will half the bulk fermentation time.
+
+Shaping the dough
+-----------------
+
+TODO
+
+Starter feeding
+---------------
+
+TODO
+
+Recipe
+------
 
 I bake my loaves at between 70 and 80 percent hydration. This means that the amount of water (by mass) is 70 to 80 percent of the amount of flour. When following bakers recipes, all the ingredients are given relative to the amount of flour. So, if you have a recipe with 50% water and 2% salt, and you choose to use 500g of flour, you will add 250g of water and 10g of salt. If you always use the same flour and are well practiced, you should be able to know the hydration just by the feel of the dough. Until then, best to weigh your ingredients. 
 
