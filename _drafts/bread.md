@@ -43,6 +43,6 @@ I bake my loaves at between 70 and 80 percent hydration. This means that the amo
   - Stretch and fold and then rest (covered) for 15 mins.
   - Rest covered until bulk fermentation is complete.
 - Shape and proof:
-  - 
+  - TODO
 - Bake:
-  -
+  - TODO
