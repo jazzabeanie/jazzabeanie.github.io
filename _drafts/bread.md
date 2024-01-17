@@ -35,14 +35,14 @@ I bake my loaves at between 70 and 80 percent hydration. This means that the amo
   - Measure out 350g of water in a mixing bowl (a glass mixing bowl is preferable as it allows you to see bubble development in the dough).
   - Add the yeast. If you are making sourdough, spoon some water into the starter container to help get the starter out, then add it all to the water. Roughly break up the start in the water.
   -  Add 500g of flour and mix until the flour and water are incorporated.
-2. Develop the gluten and bulk fermentation:
+- Develop the gluten and bulk fermentation:
   - Let rest for roughly 15-45 mins. On hot days (26C+), or if are you adding more yeast or starter, go for shorter timeframes.
   - Add 1/3 of the salt then do a stretch and fold. Repeat 2 more times so that all the salt is added.
   - Cover and rest for 5 minutes.
   - Stretch and fold and then rest (covered) for 10 mins.
   - Stretch and fold and then rest (covered) for 15 mins.
   - Rest covered until bulk fermentation is complete.
-3. Shape and proof:
+- Shape and proof:
   - 
-5. Bake:
+- Bake:
   -
