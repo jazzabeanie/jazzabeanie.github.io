@@ -5,7 +5,7 @@ date:
 description: The bread with the best effort to results ratio
 ---
 
-In order to make good bread consistently, you need to learn a few principles. If you know the principles and how to read the dough you can make great bread every time, without measuring everything. These are the principles I follow to make bread that several people have told me is the best they've ever had.
+In order to make good bread consistently, you need to learn a few principles. If you know the principles and how to read the dough you can make great bread every time, without measuring anything. These are the principles I follow to make bread that several people have told me is the best they've ever had.
 
 The basic steps to making bread are:
 
