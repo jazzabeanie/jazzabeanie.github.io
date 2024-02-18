@@ -5,7 +5,7 @@ date:
 description: The bread with the best effort to results ratio
 ---
 
-This recipe is great because of it's flexibility. Once you start, plan to be around for the next hour. Then you can put the dough in the fridge and finish bulk fermentation hours later or the next day. When the dough is ready, you will need around 20 mins to shape the loaf. After this you can reserve the next 2 hours for baking, of you can put the shaped loaf in the fridge and be at for for 2 hours the next day for baking.
+This recipe is great because of it's flexibility. Once you start, plan to be around for the next hour. Then you can put the dough in the fridge and finish bulk fermentation hours later or the next day. When the dough is ready, you will need around 20 mins to shape the loaf. After this you can reserve the next 2 hours for baking, of you can put the shaped loaf in the fridge and be at home for for 2 hours the next day for baking.
 
 In order to make good bread consistently, you need to learn a few principles. If you know the principles and how to read the dough you can make great bread every time, without measuring anything. These are the principles I follow to make bread that several people have told me is the best they've ever had.
 
