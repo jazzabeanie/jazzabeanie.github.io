@@ -5,6 +5,8 @@ date:
 description: The bread with the best effort to results ratio
 ---
 
+This recipe is great because of it's flexibility. Once you start, plan to be around for the next hour. Then you can put the dough in the fridge and finish bulk fermentation hours later or the next day. When the dough is ready, you will need around 20 mins to shape the loaf. After this you can reserve the next 2 hours for baking, of you can put the shaped loaf in the fridge and be at for for 2 hours the next day for baking.
+
 In order to make good bread consistently, you need to learn a few principles. If you know the principles and how to read the dough you can make great bread every time, without measuring anything. These are the principles I follow to make bread that several people have told me is the best they've ever had.
 
 The basic steps to making bread are:
@@ -80,7 +82,7 @@ I bake my loaves at between 70 and 80 percent hydration. This means that the amo
   - Flip the dough over and move it to an unfloured surface.
   - Scoop the dough towards you. The unfloured counter and your pinky fingers will help to pull the dough tight and seal the bottom.
   - Put the dough into a bowl with a floured towel. Fold the towel over the top then put into a plastic bag. Set aside to proof on the counter if you are going to cook in the next hour, in the fridge otherwise.
-  - If baking soon, put the dutch oven in the oven and preheat to ~250C (428F) for ~50 mins. By the time the oven is ready the loaf should be proofed.
+  - If baking soon, put the dutch oven in the oven and preheat to ~250C (428F) for ~50 mins. By the time the oven is ready the loaf should be proofed. If you have proofed overnight in the fridge, the dough can go straight from the fridge to the oven.
 - Bake:
   - take the loaf out, unfold the towl and flip onto a piece of baking paper. Peel the towel off the dough, if it sticks you a butter knife can assist, but use more flour next time.
   - use the baking paper to lower the dough into the dutch oven.
