@@ -1,0 +1,376 @@
+Index
+,A
+IM,almonds: blueberry, almond, and lemon cake
+SI,grilled lamb fillet with almonds
+SI,anchovies: anchovy and samphire spaghetti
+IME,pizza bianca
+IMP,roasted eggplant with anchovies
+IM,apples: spiced apple cake
+SI,watermelon, green apple, and lime salad
+SIME,arayes: lamb
+IME,Arnold’s roast chicken
+IM,asparagus: mustard-marinated kale with asparagus
+SI,roasted asparagus with almonds, capers, and dill
+SIMP,avocados: avocado and fava bean mash
+SIM,avocado butter on toast
+SI,soba noodles with lime, cardamom, and avocado
+,B
+SIE,tomato, orange, and barberry salsa
+ML,beef: beef meatballs with lemon and celery root
+SIME,beef sirloin and basil salad
+IM,harissa beef sirloin with pepper and lemon sauce
+IM,ricotta and oregano meatballs
+ME,beets: beet, caraway, and goat cheese bread
+IM,roasted beets with yogurt and preserved lemons
+E,blackberries: plum, blackberry, and bay friand
+SIM,bread: avocado butter on toast
+ME,beet, caraway, and goat cheese bread
+ME,cornbread with Cheddar, feta, and jalapeño
+IPE,Nutella, sesame, and hazelnut rolls
+SIMP,tomato and bread salad
+IM,zucchini and ciabatta frittata
+SIE,Bridget Jones’s pan-fried salmon
+SI,brioche: portobello mushrooms with brioche and poached eggs
+SIM,broccoli: fried broccoli and kale with garlic, cumin, and lime
+SI,broccolini with soy sauce, garlic, and peanuts
+IM,Brunsli chocolate cookies
+SI,Brussels sprouts with browned butter and black garlic
+SIM,buckwheat and French bean salad
+SIM,bulgur wheat: bulgur with mushrooms and feta
+IME,bulgur with tomato, eggplant, and lemon yogurt
+IME,butterbeans: butterbeans/lima bean mash with muhammara
+IM,butternut squash: butternut squash with corn salsa, feta, and pumpkin seeds
+IM,roasted butternut squash with lentils and dolcelatte
+,C
+SI,cabbage: Garry’s stir-fried cabbage
+I,roast cabbage with tarragon and pecorino
+IM,cakes: blueberry, almond, and lemon cake
+IM,hazelnut, peach, and raspberry cake
+IMPL,mint and pistachio chocolate fridge cake
+IM,spiced apple cake
+SIM,carrots carrot salad with yogurt and cinnamon
+SIML,roasted baby carrots with harissa and pomegranate
+SIM,cauliflower: cauliflower, pomegranate, and pistachio salad
+SI,cauliflower “tabbouleh”
+SIME,chilled cucumber, cauliflower, and ginger soup
+SI,curried egg and cauliflower salad
+M,mustardy cauliflower cheese
+IPLE,roasted whole cauliflower
+SI,cavolo nero with chorizo
+ML,celery root: beef meatballs with celery root
+ILE,whole-roasted celery root
+SIM,chard: tomato, chard, and spinach with toasted almonds
+ME,cheese: beet, caraway, and goat cheese bread
+SIM,bulgur with mushrooms and feta
+SIME,burrata with grilled grapes and basil
+IM,butternut squash with corn salsa, feta, and pumpkin seeds
+ME,cornbread with Cheddar, feta, and jalapeño
+IME,gnocchi alla Romana
+SIML,harissa and Manchego omeletes
+M,lamb and feta meatballs
+M,mustardy cauliflower cheese
+SIE,orzo with shrimp, tomato, and marinated feta
+I,oven fries with oregano and feta
+SI,pasta with pecorino and pistachios
+SIME,pea, za’atar, and feta fritters
+I,roast cabbage with tarragon and pecorino
+IM,roasted butternut squash with lentils and dolcelatte
+IME,spinach- and Gorgonzola-stuffed baked potatoes,(see also ricotta)"
+IME,cheesecake: honey and yogurt set cheesecake
+ME,sweet and salty cheesecake with cherries
+SIMPLE,chestnuts: mushrooms and chestnuts with za’atar
+IME,chicken: Arnold’s roast chicken
+IML,chicken Marbella
+ME,chicken with miso, ginger, and lime
+S,seeded chicken schnitzel
+M,slow-cooked chicken with a crisp corn crust
+IML,spring roast chicken
+IMP,chickpeas: chickpeas and Swiss chard with yogurt
+SMPL,gigli with chickpeas and za’atar
+SIP,rose harissa chickpeas with flaked cod
+SIM,chiles: chile fish with tahini
+,chile flakes, Urfa
+ME,cornbread with Cheddar, feta, and jalapeño
+SIM,grilled beefsteak tomatoes with chile, garlic, and ginger
+SIML,chips, sweet potato
+IM,chocolate: Brunsli chocolate cookies
+IMPL,mint and pistachio chocolate fridge cake
+IME,Nutella, sesame, and hazelnut rolls
+SI,chorizo, cavolo nero with
+S,chraimeh sauce
+IE,clafoutis: fig and thyme
+I,coconut-crusted fish fingers
+IML,coconut milk: curried lentil, tomato, and coconut soup
+SIP,cod, rose harissa chickpeas with flaked
+IM,cookies, Brunsli chocolate
+IM,corn: corn salsa
+SI,grilled prawn, corn, and tomato salad
+SIMLE,shrimp and corn fritters
+ME,cornbread with Cheddar, feta, and jalapeño
+IM,couscous, cherry tomato and herb salad
+SIME,cucumber: chilled cucumber, cauliflower, and ginger soup
+SIM,cucumber and lamb’s lettuce salad
+IM,rice noodle salad with cucumber and poppy seeds
+SIM,tomato and cucumber raita
+SI,curry: curried egg and cauliflower salad
+SML,curried lentil, tomato, and coconut soup
+IM,roasted eggplant with curried yogurt
+IME,custard: vanilla custard with roasted strawberries and rhubarb
+,E
+SIM,edamame: two bean and two lime salad
+IME,eggplant: bulgur with tomato, eggplant, and lemon yogurt
+IM,pasta alla Norma
+S,pork with ginger, green onions, and eggplant
+IML,Puy lentil and eggplant stew
+IM,Puy lentils with eggplant, tomatoes, and yogurt
+IMP,roasted eggplant with anchovies
+IM,roasted eggplant with curried yogurt
+IP,eggs: baked potatoes with egg and tonnato sauce
+SIML,braised eggs with leek and za’atar
+SI,curried egg and cauliflower salad
+SIML,harissa and Manchego omeletes
+SI,portobello mushrooms with brioche and poached eggs
+IM,zucchini and ciabatta frittata
+,F
+SIMP,fava beans: avocado and fava bean mash
+IE,fig and thyme clafoutis
+,fish
+IMPL,fridge cake, mint and pistachio chocolate
+IM,frittata, zucchini and ciabatta
+SIMPLE,fritters: Iranian herb fritters
+SIME,pea, za’atar, and feta fritters
+SIMLE,shrimp and corn fritters
+,G
+SI,Garry’s stir-fried cabbage
+IME,gnocchi alla Romana
+SIME,grapes, burrata with grilled
+SIM,green beans: buckwheat and haricots verts salad
+S,tofu and haricots verts with chraimeh sauce
+SIM,two bean and two lime salad
+SIM,green onions: green onion and ginger salsa
+SIM,green onion and herb salad
+,ground cardamom
+,H
+,harissa
+IME,harissa and confit garlic roast potatoes
+SIML,harissa and Manchego omeletes
+IMP,harissa-baked potato skins
+IM,harissa beef sirloin with pepper and lemon sauce
+SIMPLE,pappardelle with rose harissa, black olives, and capers
+SIML,roasted baby carrots with harissa and pomegranate
+SIP,rose harissa chickpeas with flaked cod
+SI,scrambled harissa tofu
+IM,hazelnuts: hazelnut, peach, and raspberry cake
+IPE,Nutella, sesame, and hazelnut rolls
+SIM,herbs: green onion and herb salad
+SI,herby zucchini and peas with semolina porridge
+SIMPLE,Iranian herb fritters
+,I
+IME,ice cream, no-churn raspberry
+SIMPLE,Iranian herb fritters
+,K
+SIM,kale: fried broccoli and kale with garlic, cumin, and lime
+IM,mustard-marinated kale with asparagus
+,L
+IME,lamb: grilled lamb fillet with almonds
+SIM,lamb and feta meatballs
+SIML,lamb and pistachio patties
+SIME,lamb arayes with tahini and sumac
+M,lamb meatloaf with tahini sauce and tomatoes
+IM,lamb siniyah
+IMLE,slow-cooked lamb shoulder
+M,spiced “shepherd’s pie” with lima bean crust
+SIM,lamb’s lettuce: cucumber and lamb’s lettuce salad
+SIML,leeks: braised eggs with leek and za’atar
+,lemon, preserved
+IML,lentils: curried lentil, tomato, and coconut soup
+IML,Puy lentil and eggplant stew
+IM,Puy lentils with eggplant, tomatoes, and yogurt
+IM,roasted butternut squash with lentils and dolcelatte
+SMP,lettuce: gem lettuce with fridge-raid dressing
+IMP,harissa-baked potato skins and crispy lettuce salad
+IME,lima beans: lima bean mash with muhammara
+SI,lime salsa: see sweet potato mash
+M,spiced “shepherd’s pie” with lima bean crust
+,M
+SE,mackerel with pistachio and cardamom salsa
+SIM,mango, fish cake tacos with
+ML,meatballs: beef meatballs with lemon and celery root / celeriac
+SIM,lamb and feta meatballs
+IM,ricotta and oregano meatballs
+IME,muhammara
+SIM,mushrooms: bulgur with mushrooms and feta
+SIMPLE,mushrooms and chestnuts with za’atar
+SI,portobello mushrooms with brioche and poached eggs
+,N
+IM,noodles: rice noodle salad
+SI,soba noodles with lime, cardamom, and avocado
+IPE,Nutella, sesame, and hazelnut rolls
+,O
+SI,okra: quick okra with sweet-and-sour dressing
+SIMPLE,olives: pappardelle with rose harissa, black olives, and capers
+SILE,pomegranate and olive salsa
+SIML,omeletes, harissa and Manchego
+,P
+IM,parsnips: smoked fish and parsnip cakes
+SIMPLE,pasta
+SIML,patties, lamb and pistachio
+SIM,peaches:, 5-spice peach and raspberry salad
+IM,hazelnut, peach, and raspberry cake
+SI,peas: herby zucchini/courgette and peas with semolina porridge
+SIM,new potatoes with peas and cilantro
+SIME,pea, za’atar, and feta fritters
+SIM,zucchini, pea, and basil soup
+IME,peppers: muhammara
+IMLE,squid and red bell pepper stew
+SIE,pine nut salsa, 3.1, 7.1
+SIM,pistachios: cauliflower, pomegranate, and pistachio salad
+SIML,lamb and pistachio patties
+IMPL,mint and pistachio chocolate fridge cake
+SI,pasta with pecorino and pistachios
+SE,pistachio and cardamom salsa
+IME,pizza bianca
+E,plum, blackberry, and bay friand
+SIM,pomegranate: cauliflower, pomegranate, and pistachio salad
+SILE,pomegranate and olive salsa
+SIML,roasted baby carrots with harissa and pomegranate
+S,pork with ginger, green onion, and eggplant
+SI,porridge, semolina
+SI,potatoes: aromatic olive oil mash
+IP,baked potatoes / jacket potatoes with egg and tonnato sauce
+IME,harissa and confit garlic roast potatoes
+IMP,harissa-baked potato skins
+SIM,new potatoes with peas and cilantro
+I,oven fries / chips with oregano and feta
+,pizza biancaIME
+IL,shallow-fried potatoes with rosemary and sumac
+IME,spinach and Gorgonzola-stuffed baked potatoes
+IM,pumpkin, saffron and orange soup
+,R
+SIM,raita, tomato and cucumber
+SIM,raspberries: 5-spice peach and raspberry salad
+IM,hazelnut, peach, and raspberry cake
+IME,no-churn raspberry ice cream
+IME,rhubarb, vanilla custard with roasted strawberries and
+SILE,rice: baked mint rice with pomegranate and olive salsa
+ILE,baked rice with confit tomatoes and garlic
+IPL,brown rice with caramelized onions and black garlic
+SIE,Thai sticky rice with crispy ginger, chile, and peanuts
+IM,ricotta and oregano meatballs
+IPE,rolls, Nutella, sesame, and hazelnut
+IMLE,runner beans: slow-cooked runner beans in tomato sauce
+,S
+SIME,salads: beef sirloin and basil salad
+SIM,buckwheat and haricots verts salad
+SIM,carrot salad with yogurt and cinnamon
+SIM,cauliflower, pomegranate, and pistachio salad
+SI,cauliflower “tabbouleh”
+SI,chopped salad with tahini and za’atar
+IM,couscous, cherry tomato, and herb salad
+SIM,cucumber and lamb’s lettuce salad
+SI,curried egg and cauliflower salad
+SIM,5-spice peach and raspberry salad
+SMP,gem lettuce with fridge-raid dressing
+SIM,green onion / spring onion and herb salad
+SI,grilled prawns, corn, and tomato salad
+IMP,harissa-baked potato skins and crispy lettuce salad
+IM,rice noodle salad
+SE,seaweed spaghetti and sesame salad
+SIMP,tomato and bread salad with anchovies and capers
+IMP,tomatoes with sumac shallots and pine nuts
+SIM,two bean and two lime salad
+SI,watermelon, green apple, and lime salad
+SIM,zucchini / courgette, thyme, and walnut salad
+SIE,salmon, Bridget Jones’s pan-fried
+IM,salsas: corn salsa
+SIM,green onion and ginger salsa
+I,lime salsa
+SIE,pine nut salsa, 3.1, 7.1
+SE,pistachio and cardamom salsa
+SILE,pomegranate and olive salsa
+SIE,tomato, orange, and barberry salsa
+SIM,tomato salsa
+SI,samphire: anchovy and samphire spaghetti
+S,schnitzels, seeded chicken
+ME,sea bass: whole roasted sea bass with soy sauce and ginger
+SE,seaweed spaghetti and sesame salad
+SI,semolina porridge
+IML,siniyah, lamb
+SI,shrimp: charred shrimp / prawn, corn, and tomato salad
+SIE,orzo with shrimp, tomato, and marinated feta
+SIMLE,shrimp and corn fritters
+SIME,soups: chilled cucumber, cauliflower, and ginger soup
+IML,curried lentil, tomato, and coconut soup
+IM,pumpkin, saffron, and orange soup
+SIM,zucchini, pea, and basil soup
+IME,spinach: spinach- and Gorgonzola-stuffed baked potatoes
+SIM,tomato, chard, and spinach with toasted almonds
+IMLE,squid and red bell pepper stew
+IML,stews: Puy lentil and eggplant stew
+IMLE,squid and red bell pepper stew
+IME,strawberries: sumac-roasted strawberries
+IME,vanilla custard with roasted strawberries
+SIML,sweet potatoes: sweet potato fries
+I,sweet potato mash with lime salsa
+IMP,Swiss chard: chickpeas and Swiss chard with yogurt
+,T
+SIM,tacos, fish cake
+SIM,chile fish with tahini
+SI,chopped salad with tahini and za’atar
+SIMPE,green tahini sauce
+SIME,lamb arayes with tahini and sumac
+M,lamb meatloaf with tahini sauce and tomatoes
+IML,lamb siniyah
+IE,tartare, trout
+SIE,Thai sticky rice with crispy ginger, chile, and peanuts
+SI,tofu: scrambled harissa tofu
+S,tofu and haricots verts with chraimeh sauce
+SIM,tomatoes: baked rice with confit tomatoes
+SIM,beefsteak tomato carpaccio
+IME,bulgur with tomato, eggplant and lemon yogurt
+IM,couscous, cherry tomato, and herb salad
+IML,curried lentil, tomato, and coconut soup
+IMPL,fettuccine with spiced cherry tomato sauce
+SIM,grilled beef tomatoes with chile, garlic, and ginger
+SI,grilled prawn, corn, and tomato salad
+SI,hot, charred cherry tomatoes
+M,lamb bake with tahini sauce and tomatoes
+SIE,orzo with shrimp, tomato, and marinated feta
+IM,pasta alla Norma
+IM,Puy lentils with eggplant, tomatoes, and yogurt
+IMLE,slow-cooked runner beans in tomato sauce
+SIMP,tomato and bread salad
+SIM,tomato and cucumber raita
+SIM,tomato, chard, and spinach with toasted almonds
+SIE,tomato, orange, and barberry salsa
+SIM,tomato salsa
+IMP,tomatoes with sumac shallots and pine nuts
+IP,tonnato sauce
+SIE,trout: roasted trout with tomato, orange, and barberry salsa
+IE,trout tartare with browned butter and pistachios
+IP,tuna: tonnato sauce
+,V
+IME,vanilla custard with roasted strawberries and rhubarb
+,W
+SI,watermelon, green apple and lime salad
+,Y
+IME,yogurt: bulgur with tomato, eggplant, and lemon yogurt
+IME,honey and yogurt set cheesecake
+SI,hot, charred cherry tomatoes with cold yogurt
+IM,roasted beets with yogurt
+IM,roasted eggplant with curried yogurt
+IME,sumac-roasted strawberries with yogurt cream
+SIML,sumac yogurt sauce
+SIM,tomato and cucumber raita
+,Z
+SIML,braised eggs with leek and za’atar
+SI,chopped salad with tahini and za’atar
+SPL,gigli with chickpeas and za’atar
+SIMPLE,mushrooms and chestnuts with za’atar
+SIME,pea, za’atar, and feta fritters
+IM,zucchini: crushed zucchini
+I,steamed zucchini with garlic and oregano
+SIE,stuffed zucchini with pine nut salsa
+IM,zucchini and ciabatta frittata
+SIM,zucchini, pea, and basil soup
+SIM,zucchini, thyme, and walnut salad
