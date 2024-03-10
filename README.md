@@ -10,9 +10,12 @@ I can probably copy the settings of bluehost to make it work properly, but bette
 
 [More info about https on github pages](https://github.blog/2018-05-01-github-pages-custom-domains-https/).
 
+- install Jekyll
+- 
+
 ## Log
+
 Set this up following: https://pages.github.com/
-installed Jekyll
 ran though this tutorial: http://jmcglone.com/guides/github-pages/
 changed to  Sass
 make css responsive

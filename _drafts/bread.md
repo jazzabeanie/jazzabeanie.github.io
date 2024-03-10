@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artisan Bread"
-date: 
+date: 2024-03-01
 description: The bread with the best effort to results ratio
 ---
 

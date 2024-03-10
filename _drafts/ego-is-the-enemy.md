@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ego Is The Enemy by Ryan Holiday - Notes and thoughts"
-date: 
+date: 2024-03-01
 description: A supplement to Ryan Holiday's book, Ego Is The Enemy
 ---
 "There is humility engender by looking closely at what you're calling your self, and seeing that you didn't make yourself. Your strengths are a gift. You can't really claim that you are the author of anything good that you find in yourself."
@@ -224,7 +224,7 @@ https://gallery.mailchimp.com/dcd3642d86121fbcaa9914228/files/EGO_IS_THE_ENEMY_F
 ------------
 Many of these issues seem like they would be helped by meditation. Action: meditate.
 ------------
-"According to Seneca, the Greek word Eutemia is one we should think of often. It is the sense of our own path and how to stay on it without getting distracted by all the others that intersect it. It's not about beating or having more than the other guy. It's about being what you are and being as good as possible at it without succumbing to all the things that draw you away from it. It's about going where you set out to go. It's about accomplishing the most you are capable of in what you choose. No more. No Less. By the way, Eutemia means tranquillity in English. It's time to sit down and think about what's truly important to you and then take steps to forsake the rest. Without this success will not be pleasurable or nearly as complete as it could be. Or worse, it won't last. This is especially true with money. If you don't know how much you need, the default easily becomes €“ More. And so without thinking, critical energy is diverted from a person's calling and toward filling a bank account."
+"According to Seneca, the Greek word Eutemia is one we should think of often. It is the sense of our own path and how to stay on it without getting distracted by all the others that intersect it. It's not about beating or having more than the other guy. It's about being what you are and being as good as possible at it without succumbing to all the things that draw you away from it. It's about going where you set out to go. It's about accomplishing the most you are capable of in what you choose. No more. No Less. By the way, Eutemia means tranquillity in English. It's time to sit down and think about what's truly important to you and then take steps to forsake the rest. Without this success will not be pleasurable or nearly as complete as it could be. Or worse, it won't last. This is especially true with money. If you don't know how much you need, the default easily becomes more. And so without thinking, critical energy is diverted from a person's calling and toward filling a bank account."
 - Ryan Holiday in Ego Is the Enemy
 
 I think it's good to review this from time to time. ACTION: Make a new Future me letter for the future.
