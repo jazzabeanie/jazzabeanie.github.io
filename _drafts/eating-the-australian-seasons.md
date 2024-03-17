@@ -21,7 +21,7 @@ Based of the supermarket specials.
 - Nectarines
   - As for peaches
 - Figs
-- Avocados (shepard?)
+- Avocados
 
 ## Mar
 
@@ -33,7 +33,7 @@ Based of the supermarket specials.
 - Broccoli?
   - Fried broccoli from SIMPLE
 - Mangosteins
-- Avocados (shepard?)
+- Avocados
 
 ## Apr
 ## May
