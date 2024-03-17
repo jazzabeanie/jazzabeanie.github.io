@@ -34,6 +34,15 @@ Based of the supermarket specials.
   - Fried broccoli from SIMPLE
 - Mangosteins
 - Avocados
+- Kiwi fruit
+  - bulgolgi
+- pear
+  - bulgolgi
+- apples
+- watermelon
+- lime (also in season locally in TSV)
+- kale
+- coriander
 
 ## Apr
 ## May
