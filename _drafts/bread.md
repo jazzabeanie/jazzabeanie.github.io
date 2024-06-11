@@ -37,6 +37,8 @@ Bulk fermentation
 
 Being able to tell when bulk fermentation is complete is one of the most important parts of making good bread. You cannot simply follow a recipe in this regard becuase small changes in temperature and the quantity of yeast/starter used will significantly change the bulk fermentation time. For example, an 8 degree celcius (14.4F) increase in temperature will half the bulk fermentation time.
 
+I use [the Bulk-O-Matic system](https://youtu.be/E-Z1Yle-VXA?si=rD8mWOZqtRgYnpGB&t=982), developed by the International Academy for Sourdough Baking Arts and Sciences, for determining when bulk fermentation is complete. [The whole video](https://youtu.be/E-Z1Yle-VXA?si=rD8mWOZqtRgYnpGB) is worth a watch, but they key points are at 16:22.
+
 Shaping the dough
 -----------------
 
