@@ -21,6 +21,7 @@ Based of the supermarket specials.
 - Nectarines
   - As for peaches
 - Figs
+  - fig and thyme clafourtis (Ottolenghi's simple)
 - Avocados
 
 ## Mar
@@ -30,6 +31,7 @@ Based of the supermarket specials.
 - Strawberries
 - grapes
 - Figs
+  - fig and thyme clafourtis (Ottolenghi's simple)
 - Broccoli?
   - Fried broccoli from SIMPLE
 - Mangosteins
