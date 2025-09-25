@@ -52,6 +52,9 @@ Based of the supermarket specials.
 ## Jul
 ## Aug
 ## Sep
+
+- asparagus
+
 ## Oct
 ## Nov
 ## Dec
