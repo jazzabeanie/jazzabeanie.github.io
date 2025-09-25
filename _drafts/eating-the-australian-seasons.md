@@ -54,6 +54,7 @@ Based of the supermarket specials.
 ## Sep
 
 - asparagus
+- cauliflower
 
 ## Oct
 ## Nov
