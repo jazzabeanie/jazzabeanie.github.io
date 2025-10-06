@@ -14,6 +14,21 @@ Pro tip - [use the freezer](https://www.seriouseats.com/2017/06/freeze-basil-lea
 
 [Some history about the Molcajete that I haven't read](https://masienda.com/blogs/learn/molcajete-mexican-mortar-pestle).
 
+Curing & Cleaning
+------
+
+Curing:
+- https://youtube.com/shorts/VymX6ILledw?si=wufhZsQLCm_q4Jg5
+- https://youtube.com/shorts/q6zgTStqThg?si=3Z5Kv9FCYbTR1OlL
+- https://youtu.be/4Z0CX7P-SZg?si=OizmT8S1vfTd3qrU
+
+Cleaning:
+- [some people](https://youtube.com/shorts/6FmN4RvuI0Y?si=mHtFEQErqDkLtVYQ) will grind rice every te they clean it. I'm not doing that.
+- [this lady is super annoying, but worth a watch](https://youtube.com/shorts/T4FGHVaKDsM?si=J0-aG1pv6VwRgNBx)
+- [good and simple process](https://youtu.be/Hm01jZMLdwk?si=fd3fAv3NayX9qgwg)
+
+I have a sprinkler on my hose with a relatively high pressure spray setting. I will use this, maybe grind some salt too, and then leave it somewhere it will get direct sunlight in the morning.
+
 Recipes
 -------
 
