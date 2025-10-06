@@ -37,7 +37,7 @@ These I have not tried but intend to:
 - [Tandoori Lamb Neck](https://www.youtube.com/watch?v=-SvZIM1o-Z8)
 - [Beer Marinaded Chicken](https://www.youtube.com/watch?v=7mhMyZxZGL4)
 - [Another Salsa Verde](https://masienda.com/blogs/learn/salsa-verde-molcajete)
-- [salsa (youtubr short)](https://youtube.com/shorts/AEHFB1iotKY?si=lfLJEZdCsnPE_8A5)
+- [Roasted veg salsa (youtube short)](https://youtube.com/shorts/AEHFB1iotKY?si=lfLJEZdCsnPE_8A5)
 
 This QR code links to this webpage. Print it and put it near your molajete for easy access.
 
