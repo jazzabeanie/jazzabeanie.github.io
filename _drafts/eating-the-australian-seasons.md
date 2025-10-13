@@ -57,6 +57,10 @@ Based of the supermarket specials.
 - cauliflower
 
 ## Oct
+
+- Corn
+- pumpkin
+
 ## Nov
 ## Dec
 
