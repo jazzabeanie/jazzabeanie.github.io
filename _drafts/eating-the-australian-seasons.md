@@ -60,6 +60,7 @@ Based of the supermarket specials.
 
 - Corn
 - pumpkin
+- asparagus
 
 ## Nov
 ## Dec
