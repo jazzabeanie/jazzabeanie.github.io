@@ -53,6 +53,8 @@ These I have not tried but intend to:
 - [Beer Marinaded Chicken](https://www.youtube.com/watch?v=7mhMyZxZGL4)
 - [Another Salsa Verde](https://masienda.com/blogs/learn/salsa-verde-molcajete)
 - [Roasted veg salsa (youtube short)](https://youtube.com/shorts/AEHFB1iotKY?si=lfLJEZdCsnPE_8A5)
+- Middle eastern dishes with roasted eggplant and raw garlic such as [Melitzanosalata (eggplant dip)](joplin://x-callback-url/openNote?id=c05f58fdc1f94dd08aa13889f6ca9d30), or
+  [Mirza Ghasemi - grilled eggplant, garlic, tomato, and egg](joplin://x-callback-url/openNote?id=11d382a6bdbf48e1a6e770ac203c4a0f)
 
 This QR code links to this webpage. Print it and put it near your molajete for easy access.
 
